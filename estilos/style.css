@@ -49,11 +49,12 @@ section#login {
 
 section#login h1 {
     text-align: center;
-    padding: 10px;
+    padding-bottom: 10px;
 }
 
 section#login p {
     padding: 10px;
+    font-size: 0.9em;
     text-align: justify;
 }
 
@@ -67,4 +68,8 @@ div#imagem {
 div#login > div#formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario > form {
+    padding-left: 10px;
 }
