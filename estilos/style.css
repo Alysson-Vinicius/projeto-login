@@ -60,7 +60,7 @@ section#login p {
 
 div#imagem {
     display: block;
-    background: url("../imagens/foto01.jpg") center no-repeat;
+    background: url("../imagens/foto02.jpeg") center;
     background-size: cover;
     height: 200px;
 }
@@ -100,7 +100,7 @@ div.campo > input {
     font-size: 1em;
     width: calc(100% - 44.5px);
     height: 100%;
-    transform: translateY(-10px);
+    transform: translateY(-10.5px);
     border: 0px;
     border-radius: 8px;
     padding: 2px;
