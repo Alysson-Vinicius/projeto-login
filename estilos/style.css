@@ -62,7 +62,7 @@ div#imagem {
     display: block;
     background: url("../imagens/foto02.jpeg") center;
     background-size: cover;
-    height: 220px;
+    height: 206.5px;
 }
 
 div#login > div#formulario {
